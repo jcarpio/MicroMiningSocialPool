@@ -54,3 +54,16 @@ Este proyecto tiene mucho potencial, y el concepto de usar la potencia de dispos
 ### Impacto y Sostenibilidad:
 
 Este proyecto podría atraer a una comunidad interesada en participar en la minería de Bitcoin de forma accesible, con una recompensa tangible y con la posibilidad de financiar proyectos reales. Además, dado que se basa en dispositivos de baja potencia, la barrera de entrada es mucho menor, democratizando la participación en la red de Bitcoin y fomentando el crecimiento de microproyectos.
+
+
+### Proyectos de software libre en GitHub que se alinean con la idea de un sistema de minería colaborativa para Bitcoin:
+
+1. **[Miningcore](https://github.com/oliverw/miningcore)**: Este es un software de pool de minería de alto rendimiento para múltiples criptomonedas, incluida Bitcoin. Es compatible tanto con PoW (Proof-of-Work) como con PoS (Proof-of-Stake), y está diseñado para ser eficiente y escalable. Incluye funcionalidades como procesamiento de pagos y un sistema de estadísticas en tiempo real, lo cual podría ser útil para gestionar un club de mineros【8†source】.
+
+2. **[P2Pool](https://github.com/p2pool/p2pool)**: Este proyecto es un pool de minería peer-to-peer (P2P) para Bitcoin, que permite a los mineros colaborar sin depender de un servidor centralizado. Es un ejemplo clásico de minería distribuida, donde los mineros participan de manera autónoma y pueden recibir recompensas proporcionales a su contribución【9†source】.
+
+3. **[Braidpool](https://github.com/braidpool/braidpool)**: Un proyecto más reciente que implementa un pool de minería P2P escalable, con soporte para futuros de hashrate. Este pool se centra en la descentralización y la reducción de la variabilidad de recompensas para los mineros, lo que podría alinearse con tu idea de crear una comunidad de pequeños mineros que colaboran entre sí【10†source】.
+
+4. **[Public Pool](https://osmu.wiki/public-pool/about)**: Es un pool de minería de Bitcoin de código abierto diseñado para ser fácil de instalar y mantener. Se enfoca en ofrecer una interfaz moderna y una infraestructura simple, lo cual podría ser una buena base si buscas una solución sencilla y accesible para pequeños mineros【11†source】.
+
+Estos proyectos podrían servirte de inspiración o base para tu idea, dependiendo de las características específicas que quieras implementar en tu sistema de minería colaborativa.
